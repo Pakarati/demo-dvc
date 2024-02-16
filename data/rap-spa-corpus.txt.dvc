@@ -1,0 +1,5 @@
+outs:
+- md5: 3954e25f4e2f8092c3629079ce77fd9c
+  size: 5033614
+  hash: md5
+  path: rap-spa-corpus.txt
